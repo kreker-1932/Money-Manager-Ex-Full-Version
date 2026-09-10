@@ -1,0 +1,1 @@
+# Money-Manager-Ex-Full-Version
