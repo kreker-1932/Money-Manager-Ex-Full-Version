@@ -236,3 +236,6 @@ This repository serves as the official landing page for Money Manager Ex. The so
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Money Manager Ex today!**
+
+---
+**Last updated:** 2026-09-11 00:39:05 UTC
