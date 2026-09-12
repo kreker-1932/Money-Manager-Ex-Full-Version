@@ -238,4 +238,4 @@ This repository serves as the official landing page for Money Manager Ex. The so
 **Get the most recent version of Money Manager Ex today!**
 
 ---
-**Last updated:** 2026-09-11 22:51:31 UTC
+**Last updated:** 2026-09-12 00:46:11 UTC
